@@ -1,0 +1,55 @@
+#fieldsetx{
+width:100%;
+margin:0 auto;
+margin-top:-40%;
+
+}
+#maintable{
+    width:100%;
+}
+
+.h2 a{
+font-family:times new roman !important; 
+background-color:white;
+font-size: 80px;
+}
+#tdUliza{
+ 
+}
+a{
+font-family:sans serif;
+background-color:white;
+font-size: 20px;  
+    
+}
+
+#fieldsetx legend{
+padding:0.2em 0.5em;
+border:1px solid white;
+color:#00CD66;
+font-size:30px;
+font-family: Georgia, serif;
+text-align:center;
+display:inline;
+padding:0;
+margin:0;
+padding:0;
+background:white;
+}
+#fieldsetx{
+display:flex;
+justify-content:center;
+align-items:center;
+border:1px solid white;
+width:100%;
+height:100%;
+}
+.container{
+display:flex;
+justify-content:center;
+align-items:center;
+border:1px solid white;
+width:100%;
+height:100%;
+    
+}
